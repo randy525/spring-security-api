@@ -1,0 +1,10 @@
+POST http://localhost:8080/register
+Content-Type: application/json
+
+{
+  "username": "user",
+  "password": "qweqwe123",
+  "role": "ROLE_ADMIN"
+}
+
+###
